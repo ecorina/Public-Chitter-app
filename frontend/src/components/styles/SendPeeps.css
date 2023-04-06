@@ -1,0 +1,16 @@
+.SendPeeps-form {
+  border: 1px solid #662eed;
+  border-radius: 10px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  width: 400px;
+  height: 400px;
+  background-color: #d9d9d9;
+  padding: 20px;
+}
+
+.SendPeeps-text {
+  border: 1px solid #662eed;
+  width: 300px;
+  margin: 0 auto;
+}
